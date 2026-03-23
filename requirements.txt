@@ -10,4 +10,4 @@ alembic
 fastapi-users[sqlalchemy]
 redis
 pydantic-settings
-psycopg2
+psycopg2-binary
