@@ -1,0 +1,14 @@
+locust
+pytest
+fastapi-users-db-sqlalchemy
+uliweb-alembic
+pydantic
+booktype
+fastapi
+uvicorn[standard]
+sqlalchemy
+asyncpg
+alembic
+fastapi-users[sqlalchemy]
+redis
+pydantic-settings
